@@ -6,4 +6,4 @@ click on the Start button
 
 Result:
 
-<img src=""/>
+<img src="https://raw.githubusercontent.com/Farajpour/My-Countdown/master/My%20Countdown.png"/>
