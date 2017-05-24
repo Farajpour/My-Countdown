@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+	color: #a50aff;
+	letter-spacing: 3px;
+}
+.div-1 input {
+    color: #778899;
+	text-align: center;
+    width: 18%;
+    box-sizing: border-box;
+    border: 2px solid #778899;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 20px;
+    transition: width 0.4s ease-in-out;
+	outline: none;
+}
+
+.div-1 input:focus {
+    width: 30%;
+}
+
+.div-1 button {
+	background-color: #778899;
+    border: none;
+	border-radius: 4px;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.div-2 {
+	padding: 10px 0px 10px 0px;
+}
+.div-2 p {
+    color: #4c5e6f;
+	font-size: 30px;
+}
